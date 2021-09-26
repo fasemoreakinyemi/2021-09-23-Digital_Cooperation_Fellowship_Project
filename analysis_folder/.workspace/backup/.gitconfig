@@ -1,0 +1,6 @@
+[core]
+	fileMode = false
+[http]
+	sslVerify = false
+[credential]
+	helper = cache --timeout=31540000
